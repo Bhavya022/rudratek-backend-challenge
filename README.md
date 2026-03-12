@@ -1,6 +1,12 @@
 # Rudratek Project Management API
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Bhavya022/rudratek-backend-challenge)
+
+**GitHub Repository**: [https://github.com/Bhavya022/rudratek-backend-challenge](https://github.com/Bhavya022/rudratek-backend-challenge)  
+**Live API URL**: [Pending Deployment - Click Button Above]
+
 A secure, multi-tenant RESTful API built with Node.js, Express, and MongoDB.
+
 
 ## Features
 
